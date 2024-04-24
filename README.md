@@ -1,1 +1,1 @@
-This Django application implements a CRUD functionality for managing records. It facilitates user registration, login, and logout functionalities. Logged-in users can view the dashboard to select records for reading, updating and deleting, as well as creating new records.
+
